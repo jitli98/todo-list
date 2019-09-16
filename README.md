@@ -1,5 +1,5 @@
 ## To-Do List API
-This is a To-Do List API that I built to learn more about creating RESTful APIs with NodeJS.
+This is a To-Do List API that I built to learn about creating RESTful APIs with NodeJS.
 
 ### Features
 
